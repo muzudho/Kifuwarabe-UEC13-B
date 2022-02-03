@@ -11,5 +11,5 @@ go build
 ## Run
 
 ```shell
-Kifuwarabe-UEC13-B
+kifuwarabe-uec13-b
 ```

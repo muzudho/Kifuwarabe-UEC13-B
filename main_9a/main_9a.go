@@ -600,7 +600,7 @@ func test_playout() {
 	print_sgf()
 }
 
-func main_9a_start() {
+func Main_9a_start() {
 	rand.Seed(time.Now().UnixNano())
 	init_board()
 	scanner := bufio.NewScanner(os.Stdin)

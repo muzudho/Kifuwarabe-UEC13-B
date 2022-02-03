@@ -554,7 +554,7 @@ func test_playout() {
 	print_sgf()
 }
 
-func main_9() {
+func Main_9() {
 	rand.Seed(time.Now().UnixNano())
 	// test_playout()
 	selfplay()
